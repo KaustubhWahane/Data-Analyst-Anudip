@@ -1,24 +1,10 @@
-I am a beginner learning data analytics from scratch and using this repo to mess around, break things, and slowly figure it out.
+Files
+Data Transpose Challenge.csv – Practice file for reshaping and transposing data between wide and long formats.​
 
-What I’m Learning
-Spreadsheets: Excel / Google Sheets basics
+Day_1_Capstone.csv – A simple capstone-style dataset used to combine multiple skills (cleaning, analysis, and basic insights) in one place.​
 
-SQL: simple queries to pull and filter data
+Messy Data.csv – Intentionally dirty data for practicing data cleaning, handling missing values, and fixing inconsistent entries.​
 
-Python: using Pandas and NumPy for basic analysis
+Performance Review.csv – Dataset for practicing performance/HR-style analysis, such as ratings, scores, and simple summary metrics.​
 
-Visualization: charts and simple dashboards to tell a story​
-
-What’s In Here
-Small practice exercises (cleaning, filtering, joining data)
-
-Notebooks where I try ideas, make mistakes, and fix them
-
-Notes to my future self on what I learned and what confused me​
-
-Why This Exists
-Track my progress as I go from “no clue” to “can actually analyze data”
-
-Keep all my practice work in one place
-
-Show honest, real learning instead of pretending to know everything​
+Practice-Data.csv – General practice dataset for trying out filters, aggregations, and basic visualizations.​
